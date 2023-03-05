@@ -1,0 +1,3 @@
+name: NoMoreChat-1.12.2
+version: '${project.version}'
+main: org.example.nomorechat1.NoMoreChat_1
